@@ -63,7 +63,7 @@ I started my career as a [classic-ASP](https://en.wikipedia.org/wiki/Active_Serv
 
 We even had the opportunity to work with MSNBC on the first ever streamed Olympics. Microsoft was developing Silverlight at the time and we solutioned and provided a backend platform for most of the player analytics. This is before the days of Azure and most of Microsoft's internal teams much prefered working with us vs the Microsoft.com team. Our company was made up of 95% software engineers and we built our business on the philosophy of building [Raving Fans](https://smile.amazon.com/dp/B00I61QNBU/)--a principal I still carey within me in everything I do.
 
-Next I gave the startup thing a shot. I bootstrapped a concept I called "just in time digital media production." It was a platform for Fortune 500 companies to quickly get independent/freelance artists, directors, etc. to product media content for their products. I was fortunate enough to land Lowe's Home Improvement as a client and have over 150 projects run through our platform. Unfortunately, sales and building a client-base were not my strength and I eventually found I did not have a sustainable business. During this time period I had often been asked to consult with Lowe's, Belk, and others to help guide major e-commerce and OmniChannel direction and decisions.
+Next I gave the startup thing a shot. I bootstrapped a concept I called "just in time digital media production." It was a platform for Fortune 500 companies to quickly get independent/freelance artists, directors, etc. to produce media content for their products. I was fortunate enough to land Lowe's Home Improvement as a client and have over 150 projects run through our platform. Unfortunately, sales and building a client-base were not my strength and I eventually found I did not have a sustainable business. During this time period I had often been asked to consult with Lowe's, Belk, and others to help guide major e-commerce and OmniChannel direction and decisions.
 
 In 2015, I found myself needing to go back into the workforce. My partner and I shutdown the company and I went to work for an [e-commerce company in SC](https://www.fast-growing-trees.com/). It was an intimate and fast-paced environment. I found myself back in the early days of my career, rewriting their e-commerce platform, CRM, and inventory management system. The company was already heavily invested in the LAMP stack and had quickly grown into the tens of millions of dollars in annual revenue. My primary job was to prepare their technical stack and processes for an acquisition in the hundreds of millions.
 
@@ -75,13 +75,15 @@ So far, it's been a fantastic ride.
 
 ## Life Outside of Work
 
-I was born in a [little tiny town in Southern CA](https://goo.gl/maps/mbDWbjmLFbHnZvUt5), but moved to North Carolina as a teenager. I still love CA and up until the last year, often visit once or twice a year. My home is certainly North Carolina, but a piece of me will always remain in CA.
+I was born in a [little tiny town in Southern CA](https://goo.gl/maps/mbDWbjmLFbHnZvUt5), but moved to North Carolina as a teenager. I still love CA and up until the last year, try to visit once or twice a year. My home is certainly North Carolina, but a piece of me will always remain in CA.
 
 I'm married to my middle school sweetheart, Tiffany. We took the long way to find a life together and have a combined household of five children: three from my first marriage and two from hers. Our children range from ages 15 to 9. Four different schools in two different towns and a schedule that keeps us all on our toes!
 
 We all absolutely love the water. During the summer you'll often find us on the lake wake surfing, knee boarding, and wakeboarding. We try to get to the beach several times a year so the kids can boogie board and the parents can get fried in the sun. During the winter you might find us off-roading in our side-by-sides, but mostly talking about getting back to the water in the summer.
 
 We live in a little town in the middle of nowhere. We currently have 2 dogs, 2 rabbits, 3 guinea pigs, 6 ducks, and too many chickens to count. You'll often hear them in the background if I'm on the phone and walking around the property. I love animals and believe they help keep us grounded and connected to the world around us. I am always looking for ways to make our property more self-sustaining.
+
+My wife will tell you, I always have two or three projects going at any given time. There's always a pond to build, a wall to construct or a room that needs renovated. Next up is a new home office and maintaining some hiking trails within our woods.
 
 ## Random
 
