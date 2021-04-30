@@ -35,7 +35,7 @@ At the end of the day, we are here to build something for someone. We serve at t
 
 ### Email
 
-First, I believe heavily in [Inbox Zero](https://www.youtube.com/watch?v=z9UjeTMb3Yk). Early in my career I worked at a webhosting company where a very small team supported several thousand clients. We lived in our email nearly all day every day and an organized email system I believe is as critical to the modern technology team as an organized filing system is to a CPA.
+First, I believe strongly in [Inbox Zero](https://www.youtube.com/watch?v=z9UjeTMb3Yk). Early in my career I worked at a webhosting company where a very small team supported several thousand clients. We lived in our email nearly all day every day and an organized email system I believe is as critical to the modern technology team as an organized filing system is to a CPA.
 
 Email I believe should be used for more long-form and formal communication. Unlike my early days, now there are much better forms of communication for items that require a quick response. I will typically respond to email within 24-hours, if nothing else to let you know I have it and provide an update when you can expect a detailed response. If you don't get a response from me within that time, don't hesitate to follow-up. I rarely completely miss an email, but it has been known to happen.
 
