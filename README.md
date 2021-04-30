@@ -4,6 +4,32 @@
 
 ## Engineering Leadership
 
+First and foremost, my role is to help you be successful. There are organizational objectives that we all have to guide towards, but helping you will not move from my top focus. Some of the things you can expect from me:
+
+- Providing clear vision and direction for your work
+- Providing regular feedback on you and your work
+- Help you plan your career
+- Help you grow as an engineer, teammate, manager (where applicable), and person
+- Regular 1x1s
+- Gathering feedback from you on our team, tools and processes
+
+### Human First
+
+Before our jobs, careers, companies and passions we are above all else human. I will always strive to keep that front and center in everything I do and every decision I make. Holding this true ensures I keep empethy at the core, leave space for mistakes, and don't avoid the difficult topics just because we are in the work place.
+
+### Question Everything and Learn Continously
+
+I love answering questions. I am not usually the loudest person in the room or the most outspoken, but put a tramendous amount of thought and energy into everyhting I do. With that said, I don't always get it right or have the full perspective on things. I love when teammates come to me with questions and genuelly want to learn and help drive to the absolute best outcome possible.
+
+You should never stop learning and never let me either. Hold me accountable if you don't feel I am understanding the problem at hand or am missing context. Teach me from your experience. No two humans are alike and we always have an opportunity to foster new things in one another.
+
+### Open Door
+
+Even in this remote world, know my "door is always open." You aren't bothering me. I am here to serve you and ensure as a team we get the most out of all the pieces. Depending on topic and availability, from time-to-time I may ask if we can discuss a topic further at another time. If you ever feel I am not putting the right priority on something you are brining me, please let me know.
+
+### Engineering is Customer Service
+
+At the end of the day, we are here to build something for someone. We serve at the pleasure of our customers. I will always strive to build systems that are easier to use, easier to maintain, resiliant and reliable.
 
 ## Communication
 
