@@ -33,9 +33,23 @@ Life is too short to deal with [toil](https://sre.google/sre-book/eliminating-to
 
 ## Career Background
 
-I started my career as a [classic-ASP](https://en.wikipedia.org/wiki/Active_Server_Pages) web developer and eventually migrated to .NET 2.0. I built several e-commerce, CRM, and process managment systems for small to mid-sized businesses in the late '90s and early 2000s. In the early days, all the sites were hosted on a server under my desk with dual-ISDN lines. I later went to work for a Microsoft Gold Certified web hosting provider, ORCS Web. We were known for being the most technically compotent Microsoft hosting provider at the time. We hosted many of Microsoft's own technical sites, such as ASP.NET, WEBLOGS.ASP.NET, IIS.NET, and others. This is before the days of Azure and most of Microsoft's internal teams much prefered working with us vs the Microsoft.com team. Our company was made up of 95% software engineers and we built our business on the philosophy of building [Raving Fans](https://smile.amazon.com/dp/B00I61QNBU/)--a principal I still carey within me in everything I do.
+I started my career as a [classic-ASP](https://en.wikipedia.org/wiki/Active_Server_Pages) web developer and eventually migrated to .NET 2.0. I built several e-commerce, CRM, and process managment systems for small to mid-sized businesses in the late '90s and early 2000s. In the early days, all the sites were hosted on a server under my desk with dual-ISDN lines. I later went to work for a Microsoft Gold Certified web hosting provider, ORCS Web. We were known for being the most technically compotent Microsoft hosting provider at the time. We hosted many of Microsoft's own technical sites, such as ASP.NET, WEBLOGS.ASP.NET, IIS.NET, and others.
+
+We even had the opportunity to work with MSNBC on the first ever streamed Olypics. Microsoft was developing Silverlight at the time and we solutioned and provided a backend platform for most of the player analytics. This is before the days of Azure and most of Microsoft's internal teams much prefered working with us vs the Microsoft.com team. Our company was made up of 95% software engineers and we built our business on the philosophy of building [Raving Fans](https://smile.amazon.com/dp/B00I61QNBU/)--a principal I still carey within me in everything I do.
+
+Next I gave the startup thing a shot. I bootstrapped a concept I called "just in time digital media production." It was a platform for Fortune 500 companies to quickly get independant/freelance artists, directors, etc. to product media content for their products. I was fortinute enough to land Lowe's Home Improvement as a client and have over 150 projects run through our platform. Unfortinutley, sales and building a client-base were not my strength and I eventually found I did not have a sustainable business. During this time period I had often been asked to consult with Lowe's, Belk, and others to help guide major e-commerce and OmniChannel direction and decisions.
+
+In 2015, I found myself needing to go back into the workforce. My partner and I shutdown the company and I went to work for an [e-commerce company in SC](https://www.fast-growing-trees.com/). It was an intimate and fast-passed environment. I found myself back in the early days of my career, rewriting their e-commerce platform, CRM, and inventory managment system. The company was already heavily invested in the LAMP stack and had quickly grown into the tens of millions of dollars in annual revenue. My primary job was to prepare their technical stack and processes for an aquisition in the hundreds of millions.
+
+If you know the Charlotte, NC area at all, you know we are primarily known as the banking hub of the south--thanks to Bank of America, Wells Fargo, BB&T/SunTrust/Truist, Ally, and others. While I had always sworn off the banks, I eventually got a call and an offer that would have been difficult for me to turn down. There was a team working on BankOfAmerica.com that was focused on modern technologies and trying to build the capabilities within the bank of a modern technology team. I spent the next 2 1/2 years focused almost entirely in JavaScript and MarTech integrations, eventually running an engineering team that was focused on enirely revitalizing the bank's digital data collection stack. A platform designed to collect over 2.25 billion customer interactions per month.
+
+In 2018 I was recruited to Ally Financial by a Sr. Director of Engineering I looked up to. I had the opportunity to step into Ally with no real designated role and help find areas within the growing engineering department I could best add value to. Within a few months I found myself building a DevOps Engineering team, trying to improve the overal developer experience within the bank, and removing as many manual processes as I could. Let's be honest, in 2018 developers shouldn't be senidng zip files and multipage release notes to an operations team. Within the next two years I had grown to an engineering team of 35 with 4 engineering managers, introduced the practice of Site Reliabilty Engineering to Ally, and jumpstarted our teams' journey into AWS.
+
+So far, it's been a fantastic ride.
 
 ## Life Outside of Work
+
+I was born in a little tiny town in Southern CA, but moved to North Carolina as a teenager. I still love CA and up until the last year, often visit once or twice a year. My home is certainly North Carolina, but a piece of me will always remain in CA.
 
 I'm married to my middle school sweetheart, Tiffany. We took the long way to find a life together and have a combined household of five children: three from my first marriage and two from hers. Our children range from ages 15 to 9. Four different schools in two different towns and a schedule that keeps us all on our toes!
 
@@ -45,7 +59,7 @@ We live in a little town in the middle of nowhere. We currently have 2 dogs, 2 r
 
 ## Random
 
-- 📚 **Currently reading**: 
+- 📚 **Currently reading**: [Brave New Work](https://smile.amazon.com/dp/B07D6CQVVV/) by Aaron Dignan
 - 🛴 **Countries I've visited**: Argentina, Austria, Brazil, Canada, England, Germany, Hungry, Ireland, Romania, Mexico
 - 💬 **Ask me about**: My tiny [little catering company](https://wickerbbq.com)
 - ⚡ **Fun fact**: You can find [me on IMDB](https://www.imdb.com/name/nm2046355/)
