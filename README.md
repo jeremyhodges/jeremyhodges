@@ -49,7 +49,7 @@ So far, it's been a fantastic ride.
 
 ## Life Outside of Work
 
-I was born in a little tiny town in Southern CA, but moved to North Carolina as a teenager. I still love CA and up until the last year, often visit once or twice a year. My home is certainly North Carolina, but a piece of me will always remain in CA.
+I was born in a [little tiny town in Southern CA](https://goo.gl/maps/mbDWbjmLFbHnZvUt5), but moved to North Carolina as a teenager. I still love CA and up until the last year, often visit once or twice a year. My home is certainly North Carolina, but a piece of me will always remain in CA.
 
 I'm married to my middle school sweetheart, Tiffany. We took the long way to find a life together and have a combined household of five children: three from my first marriage and two from hers. Our children range from ages 15 to 9. Four different schools in two different towns and a schedule that keeps us all on our toes!
 
