@@ -27,6 +27,10 @@ You should never stop learning and never let me either. Hold me accountable if y
 
 Even in this remote world, know my "door is always open." You aren't bothering me. I am here to serve you and ensure as a team we get the most out of all the pieces. Depending on topic and availability, from time-to-time I may ask if we can discuss a topic further at another time. If you ever feel I am not putting the right priority on something you are bringing me, please let me know.
 
+### Disagree Openly
+
+If you disagree on an issue, explain why you disagree, ideally in both discussion and in writing. The back and forth of discussion can clarify the different views, and concise writing of the core issues helps people reflect on what is the wise course. Writing also makes it easy to share your views widely. My commitment to you is to welcome, understand, and consider your opinions, but may not always agree. Silent disagreement is unproductive.
+
 ### Engineering is Customer Service
 
 At the end of the day, we are here to build something for someone. We serve at the pleasure of our customers. I will always strive to build systems that are easier to use, easier to maintain, resilient and reliable.
@@ -81,13 +85,13 @@ I'm married to my middle school sweetheart, Tiffany. We took the long way to fin
 
 We all absolutely love the water. During the summer you'll often find us on the lake wake surfing, knee boarding, and wakeboarding. We try to get to the beach several times a year so the kids can boogie board and the parents can get fried in the sun. During the winter you might find us off-roading in our side-by-sides, but mostly talking about getting back to the water in the summer.
 
-We live in a little town in the middle of nowhere. We currently have 2 dogs, 2 rabbits, 3 guinea pigs, 6 ducks, and too many chickens to count. You'll often hear them in the background if I'm on the phone and walking around the property. I love animals and believe they help keep us grounded and connected to the world around us. I am always looking for ways to make our property more self-sustaining.
+We live in a little town in the middle of nowhere. We currently have 2 dogs, 2 rabbits, 5 guinea pigs, and 2 guinea fowl. You'll often hear them in the background if I'm on the phone and walking around the property. I love animals and believe they help keep us grounded and connected to the world around us. I am always looking for ways to make our property more self-sustaining.
 
 My wife will tell you, I always have two or three projects going at any given time. There's always a pond to build, a wall to construct or a room that needs renovated. Next up is a new home office and maintaining some hiking trails within our woods.
 
 ## Random
 
-- 📚 **Currently reading**: [Brave New Work](https://smile.amazon.com/dp/B07D6CQVVV/) by Aaron Dignan
+- 📚 **Currently reading**: [Quiet: The Power of Introverts in a World That Can't Stop Talking](https://smile.amazon.com/dp/0307352153) by Susan Cain
 - 🛴 **Countries I've visited**: Argentina, Austria, Brazil, Canada, England, Germany, Hungry, Ireland, Romania, Mexico
 - 💬 **Ask me about**: My tiny [little catering company](https://wickerbbq.com)
 - ⚡ **Fun fact**: You can find [me on IMDB](https://www.imdb.com/name/nm2046355/)
