@@ -75,6 +75,8 @@ If you know the Charlotte, NC area at all, you know we are primarily known as th
 
 In 2018 I was recruited to Ally Financial by a Sr. Director of Engineering I looked up to. I had the opportunity to step into Ally with no real designated role and help find areas within the growing engineering department I could best add value to. Within a few months I found myself building a DevOps Engineering team, trying to improve the overall developer experience within the bank, and removing as many manual processes as I could. Let's be honest, in 2018 developers shouldn't be sending zip files and multipage release notes to an operations team. Within the next two years I had grown to an engineering team of 35 with 4 engineering managers, introduced the practice of Site Reliability Engineering to Ally, and jump started our teams' journey into AWS.
 
+Within the midst of a pandemic, in May of 2021 I joined a NYC based FinTech called [CommonBond](https://commonbond.co) as VP of Engineering--a role that included IT, Infrastrucutre, Data Engineering & Software Engineering. Attrition within the tech team was high, morale was low, and they were having difficulty getting quality work out the door. In the months to follow, I had the opportunity to help stabilize and reinvigorate the team. An intense effort was made immedietly to double down on recruiting efforts and promote strong talent already within the team. A new team structure and opperating model was introduced to optimize the skillsets and start to bring joy back into the organization. Teams were empowered to own their code from development to production with an emphasis on quality over quantity. As a team, we started to shift-left and embrace a DevOps culture with an emphasis on agility instead of Agile. After just 8-mo, I was honored to be promoted to CTO and have the product and product team added to my responsibilities.
+
 So far, it's been a fantastic ride.
 
 ## Life Outside of Work
@@ -85,7 +87,7 @@ I'm married to my middle school sweetheart, Tiffany. We took the long way to fin
 
 We all absolutely love the water. During the summer you'll often find us on the lake wake surfing, knee boarding, and wakeboarding. We try to get to the beach several times a year so the kids can boogie board and the parents can get fried in the sun. During the winter you might find us off-roading in our side-by-sides, but mostly talking about getting back to the water in the summer.
 
-We live in a little town in the middle of nowhere. We currently have 2 dogs, 2 rabbits, 5 guinea pigs, and 2 guinea fowl. You'll often hear them in the background if I'm on the phone and walking around the property. I love animals and believe they help keep us grounded and connected to the world around us. I am always looking for ways to make our property more self-sustaining.
+We live in a little town in the middle of nowhere. We currently have 4 dogs, 2 rabbits, 5 guinea pigs, and 2 guinea fowl. You'll often hear them in the background if I'm on the phone and walking around the property. I love animals and believe they help keep us grounded and connected to the world around us. I am always looking for ways to make our property more self-sustaining.
 
 My wife will tell you, I always have two or three projects going at any given time. There's always a pond to build, a wall to construct or a room that needs renovated. Next up is a new home office and maintaining some hiking trails within our woods.
 
@@ -93,6 +95,7 @@ My wife will tell you, I always have two or three projects going at any given ti
 
 - 📚 **Currently reading**: [Quiet: The Power of Introverts in a World That Can't Stop Talking](https://smile.amazon.com/dp/0307352153) by Susan Cain
 - 🛴 **Countries I've visited**: Argentina, Austria, Brazil, Canada, England, Germany, Hungry, Ireland, Romania, Mexico
+- 🏎 **I'm a fan of**: [Formula 1](https://www.formula1.com/), Electric Vehicles, SpaceX
 - 💬 **Ask me about**: My tiny [little catering company](https://wickerbbq.com)
 - ⚡ **Fun fact**: You can find [me on IMDB](https://www.imdb.com/name/nm2046355/)
 
