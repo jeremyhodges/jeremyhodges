@@ -4,14 +4,14 @@
 
 ## Engineering Leadership
 
-First and foremost, my role is to help you be successful. There are organizational objectives that we all have to guide towards, but helping you will not move from my top focus. Some of the things you can expect from me:
+First and foremost, my role is to help my team be successful. There are organizational objectives that we all have to guide towards, but helping my team will not move from my top focus. Some of the things you can expect from me:
 
-- Providing clear vision and direction for your work
-- Providing regular feedback on you and your work
-- Help you plan your career
-- Help you grow as an engineer, teammate, manager (where applicable), and person
+- Providing clear vision and direction for their work
+- Providing regular feedback on them and their work
+- Help them plan their career
+- Help them grow as an engineer, teammate, manager (where applicable), and person
 - Regular 1x1s
-- Gathering feedback from you on our team, tools and processes
+- Gathering feedback from them on our team, tools and processes
 
 ### Human First
 
@@ -77,25 +77,26 @@ In 2018 I was recruited to Ally Financial by a Sr. Director of Engineering I hav
 
 Within the midst of a pandemic, in May of 2021 I joined a NYC based FinTech called [CommonBond](https://commonbond.co) as VP of Engineering--a role that included IT, Infrastrucutre, Data Engineering & Software Engineering. Attrition within the tech team was high, morale was low, and they were having difficulty getting quality work out the door. In the months to follow, I had the opportunity to help stabilize and reinvigorate the team. An intense effort was made immedietly to double down on recruiting efforts and promote strong talent already within the team. A new team structure and opperating model was introduced to optimize the skillsets and start to bring joy back into the organization. Teams were empowered to own their code from development to production with an emphasis on quality over quantity. As a team, we started to shift-left and embrace a DevOps culture with an emphasis on agility instead of Agile. After just 8-mo, I was honored to be promoted to CTO and have the product and product team added to my responsibilities.
 
-In 2022, I was recruited to join [Live Oak Bank](https://liveoak.bank).
+In 2022, I joined as CTO of [Live Oak Bank](https://liveoak.bank).
 
 So far, it's been a fantastic ride.
 
 ## Life Outside of Work
 
-I was born in a [little tiny town in Southern CA](https://goo.gl/maps/mbDWbjmLFbHnZvUt5), but moved to North Carolina as a teenager. I still love CA and up until the last year, try to visit once or twice a year. My home is certainly North Carolina, but a piece of me will always remain in CA.
+I was born in a [little tiny town in Southern CA](https://goo.gl/maps/mbDWbjmLFbHnZvUt5), but moved to North Carolina as a teenager. I still love CA and try to visit as often as I can. My home is certainly North Carolina, but a piece of me will always remain in CA.
 
-I'm married to my middle school sweetheart, Tiffany. We took the long way to find a life together and have a combined household of five children: three from my first marriage and two from hers. Our children range from ages 16 to 10. It certainly keeps us all on our toes!
+I'm married to my middle school sweetheart, Tiffany. We took the long way to find a life together and have a combined household of five children: three from my first marriage and two from hers. Our children range from ages 17 to 11. It certainly keeps us all on our toes!
 
 We all absolutely love the water. During the summer you'll often find us on the lake wake surfing, knee boarding, and wakeboarding. We try to get to the beach several times a year so the kids can boogie board and the parents can get fried in the sun. During the winter you might find us off-roading in our side-by-sides, but mostly talking about getting back to the water in the summer.
 
-We live in a little town in the middle of nowhere. We currently have 4 dogs, 2 rabbits, 2 guinea pigs, and a bearded dragon. You'll often hear them in the background if I'm on the phone and walking around the property. I love animals and believe they help keep us grounded and connected to the world around us. I am always looking for ways to make our property more self-sustaining. My wife will tell you, I always have two or three projects going at any given time. There's always a pond to build, a wall to construct or a room that needs renovated.
+We live in a little town in the middle of nowhere. We currently have 4 dogs, a rabbit, a guinea pigs, and a bearded dragon. You'll often hear them in the background if I'm on the phone and walking around the property. I love animals and believe they help keep us grounded and connected to the world around us. My wife will tell you, I always have two or three projects going at any given time. There's always a pond to build, a wall to construct or a room that needs renovated.
 
 ## Random
 
-- 📚 **Currently reading**: [Quiet: The Power of Introverts in a World That Can't Stop Talking](https://smile.amazon.com/dp/0307352153) by Susan Cain
+- 📚 **Currently re-reading**: [Brave New Work: Are You Ready to Reinvent Your Organization?](https://smile.amazon.com/dp/0307352153) by Aaron Dignan
+- 🤔 **I’m currently learning**: as much about all things AI as I can consume
 - 🛴 **Countries I've visited**: Argentina, Austria, Brazil, Canada, England, Germany, Hungry, Ireland, Romania, Mexico
-- 🏎 **I'm a fan of**: [Formula 1](https://www.formula1.com/), Electric Vehicles, SpaceX
+- 🏎 **I'm a fan of**: [Formula 1](https://www.formula1.com/), NASCAR, Electric Vehicles, SpaceX
 - 💬 **Ask me about**: My tiny [little catering company](https://wickerbbq.com)
 - ⚡ **Fun fact**: You can find [me on IMDB](https://www.imdb.com/name/nm2046355/)
 
